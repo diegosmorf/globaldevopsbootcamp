@@ -6,7 +6,7 @@ This event is brought to you by Xpirit  and Solidify . You can find all relevant
 -	Mathias Olausson (@molausson)
 -	Rene van Osnabrugge (@renevo)
 
-## The Out of the box event
+## Bootcamp as an “Event out of the Box”.
 We have registered the following numbers:
 - 87 venues
 - 10000 available tickets
