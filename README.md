@@ -2,15 +2,15 @@
 
 ## Initiators and Main Organizers
 This event is brought to you by Xpirit  and Solidify . You can find all relevant information on our websites. The three initiators and main organizers of this event are
-•	Marcel de Vries (@marcelv)
-•	Mathias Olausson (@molausson)
-•	Rene van Osnabrugge (@renevo)
+-	Marcel de Vries (@marcelv)
+-	Mathias Olausson (@molausson)
+-	Rene van Osnabrugge (@renevo)
 
 ## The Out of the box event
 We have registered the following numbers:
-•	87 venues
-•	10000 available tickets
-•	35 countries
+- 87 venues
+- 10000 available tickets
+- 35 countries
 
 
 ## Local Development Requirements
@@ -50,20 +50,20 @@ The scoreboard can be found here: https://scoreboard.gdbc-challenges.com/
 
 Each team in every venue will get:
 - An Azure DevOps Team Project incl.
--- Git repository with sources
--- Build pipeline that builds artifact from source
--- Release pipeline that deploys artifacts to Azure
--- An Endpoint with credentials to deploy
--- A Team Users
+- -Git repository with sources
+- -Build pipeline that builds artifact from source
+- -Release pipeline that deploys artifacts to Azure
+- -An Endpoint with credentials to deploy
+- -A Team Users
 - Azure Resources
--- Azure Resource Group to deploy application
--- Web App
--- SQL Server
--- Application Insights
--- Storage Account
-- Azure Credentials
--- AAD User for the team
--- Azure SPN to deploy to Azure
+- -Azure Resource Group to deploy application
+- -Web App
+- -SQL Server
+- -Application Insights
+- -Storage Account
+- -Azure Credentials
+- -AAD User for the team
+- -Azure SPN to deploy to Azure
 
 ## Conference Code of Conduct
 Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organisers.
