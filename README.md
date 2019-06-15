@@ -12,6 +12,28 @@ We have registered the following numbers:
 - 10000 available tickets
 - 35 countries
 
+## Recorded Keynote by Niall Murphy
+- At 10:00 AM it is time to start the event
+- Introduction from the organizers
+- Keynote by Niall Murphy
+- Handover to the Local Venue (video)
+
+### Local Keynote, provided by the local venue
+- Local presenter (or someone of the League) will provide the keynote
+- After the keynote slides, there is an explanation of the challenges, the scoring system
+- Talk about the Team to Team Presentation (after approx. 2 hours) where teams present their Post Mortem learnings
+- Talk about the learning share and demo at the end
+
+## Hackathon/Workshop/HandsOn challenges with a game
+### When the challenges are explained you can start forming teams.
+- We generated teams in Azure DevOps on 4/5 users per team
+- 50 people, 13 teams
+- Idea: Create 3 places in your office. Beginners, Medium, Advanced and ask teams to self-organize in teams of 4/5 people
+- Provide AAD Team user and instruction to start challenges
+- You can create small sticky notes with team names and hand that to the teams
+- People get started with challenges
+- Walk around, proctor, help them be successful
+
 
 ## Local Development Requirements
 If you want to work with the PartsUnlimited solution on your local box you need to have installed a couple of things.
@@ -66,6 +88,7 @@ Each team in every venue will get:
 - -Azure SPN to deploy to Azure
 
 ## Conference Code of Conduct
+
 Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organisers.
 
 Source/credits: https://confcodeofconduct.com
